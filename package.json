@@ -1,0 +1,17 @@
+{
+  "name": "magic-console-logger",
+  "version": "2.0.6",
+  "description": "This is amazing console log package that allow you to console string with css ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "console-logger",
+    "logging"
+  ],
+  "author": "Ashish Sharam",
+  "license": "ISC",
+  "dependencies": {}
+}
